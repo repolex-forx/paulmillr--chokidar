@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "paulmillr",
+  "repo": "chokidar",
+  "versions": [
+    {
+      "commit": "c0c8d20e49d337491891078d1081bf91bd178de6",
+      "parsed_at": "2026-09-17T05:30:15.228654+00:00",
+      "tag": "5.0.0",
+      "filetree": "filetree/c0c8d20e49d337491891078d1081bf91bd178de6.nq.gz",
+      "blobs": [
+        "blob/ed3d1a54547e495113af06fe5f77801022975fd9.nq.gz",
+        "blob/fce5ba04531b4f34a723ed7311594e9238b987be.nq.gz",
+        "blob/e7e0bcbf68e40dc2a41791edc9e344b5af58d327.nq.gz",
+        "blob/4cd2de1f61deca0b6b8483da01911ba0a3adefc6.nq.gz",
+        "blob/d9f629c668cdddd20645bfe886966b6e0c4be6a4.nq.gz",
+        "blob/532d51d49be7ec66ea9405ad568a173bfac12af4.nq.gz",
+        "blob/9d5d65248b73b580873b67b8987b0fa6a6783618.nq.gz",
+        "blob/afb93b999c3d1289099ba3fb67b1df0f35d8a758.nq.gz",
+        "blob/43f16abcadecdc863dc0dbd5f6ee9a3711f7ea19.nq.gz",
+        "blob/453e1c66949d856e5501b7921663d15cc02a638b.nq.gz",
+        "blob/e76afe2800f5a959fa400d813cb6d0e915af6cbb.nq.gz",
+        "blob/789ac2e5d9a0c619dd195fe9c50a65b749e22557.nq.gz",
+        "blob/8c27184e967ba358f021395738d20dfd8d0eb39e.nq.gz",
+        "blob/690ad2a836164cc0a25d78439f90215e914333ff.nq.gz",
+        "blob/0df29460c195146894e69319dfd45805bf2dc567.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
